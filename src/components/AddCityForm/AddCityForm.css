@@ -1,0 +1,10 @@
+.search_bar {
+  padding: 30px;
+  border-radius: .5em;
+}
+.button {
+    background-color: #767676;
+    color: #fff;
+    text-shadow: none;
+    border-radius: .25em;
+}
